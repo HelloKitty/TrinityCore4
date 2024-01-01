@@ -1,2 +1,1 @@
-# TrinityCore4
-TrinityCore 4 Open Source MMO Framework (master = 10.2.0.52649, 3.3.5 = 3.3.5a.12340)
+[![Trolled You](https://i.imgur.com/4eUuE9B.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Click to clone TrinityCore4")
